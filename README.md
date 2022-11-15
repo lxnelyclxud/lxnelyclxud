@@ -1,10 +1,9 @@
-<div style="display: flex;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lxnelyclxud&hide=stars,issues&card_width=375&hide_title=true&custom_title=Stats&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=fce7f3&title_color=ec4899&icon_color=ec4899" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxnelyclxud&langs_count=10&layout=compact&card_width=275&hide_title=true&hide_border=true&custom_title=Languages&bg_color=00000000&text_color=fce7f3&title_color=ec4899" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=lxnelyclxud&hide=stars,issues&card_width=375&hide_title=true&custom_title=Stats&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=fce7f3&title_color=ec4899&icon_color=ec4899" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxnelyclxud&langs_count=10&layout=compact&card_width=325&hide_title=true&hide_border=true&custom_title=Languages&bg_color=00000000&text_color=fce7f3&title_color=ec4899" />
 </div>
-<!--
-**lxnelyclxud/lxnelyclxud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
