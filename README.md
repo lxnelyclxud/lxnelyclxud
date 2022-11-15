@@ -1,5 +1,5 @@
 <!-- Stats -->
-[![Stats Dark](https://github-readme-stats.vercel.app/api?username=lxnelyclxud&hide=stars,issues&hide_title=false&custom_title=Stats&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=fce7f3&title_color=ec4899&icon_color=ec4899)](https://github.com/lxnelyclxud)
+[![Stats Dark](https://github-readme-stats.vercel.app/api?username=lxnelyclxud&hide=stars,issues&hide_title=true&custom_title=Stats&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&text_color=fce7f3&title_color=ec4899&icon_color=ec4899)](https://github.com/lxnelyclxud)
 [![Languages Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lxnelyclxud&langs_count=10&layout=compact&hide_border=true&custom_title=Languages&bg_color=00000000&text_color=fce7f3&title_color=ec4899)](https://github.com/lxnelyclxud)
 
 <!--
