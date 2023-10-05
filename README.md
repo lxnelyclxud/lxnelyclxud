@@ -4,7 +4,7 @@
 
 🏡 Outside the realm of coding, you might find me experimenting with flavours in the kitchen, searching for new shows on Netflix or trying to stick with my workout routine.
 
-[🕵️‍♂️ **emojisearch.fun**](https://emojisearch.fun)
+[🕵️‍♂️ **emojisearch.fun**](https://emojisearch.fun) [🎬 **t.me/cinesharebot**](https://t.me/cinesharebot)
 
 <p align="center">
   <img src="https://github-readme-stats.xanderbarkhatov.vercel.app/api/top-langs/?username=xanderbarkhatov&langs_count=8&layout=compact&hide_title=true&hide_border=true&custom_title=Languages&bg_color=00000000&text_color=64748b&title_color=ec4899&cache_seconds=172800" />
